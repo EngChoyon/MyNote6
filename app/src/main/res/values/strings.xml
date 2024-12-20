@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">register</string>
+    <string name="loginnow">loginnow</string>
+    <string name="Login" />
+    <string name="logout">logout</string>
+</resources>
